@@ -1,0 +1,34 @@
+i.text {
+  font-family: Arial;
+  font-size: smaller;
+  color: black;
+  text-decoration: none;
+  overflow: hidden;
+  padding-bottom: 20px;
+}
+.left-menu{
+  padding-left: 20px;
+}
+.right-menu{
+  padding-right: 20px;
+}
+.icon-format{
+  padding-top: 35px;
+}
+i.text:hover{
+  text-decoration: underline;
+}
+h2{
+  padding-left: 32%;
+  font-family: Arial, sans-serif;
+  color: black;
+}
+.image-logo {
+  position: relative;
+  right: -8%;
+  width: 150px;
+  padding-top: 15px;
+
+
+}
+
